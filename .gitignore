@@ -1,0 +1,35 @@
+# Ignore everything
+*
+
+# But keep directories (so Git can traverse them)
+!*/
+
+# Allow Python source files
+!*.py
+
+# Allow icon files
+!*.ico
+
+# Allow Markdown files
+!*.md
+
+# Allow built exe file
+!*.exe
+
+# Allow gitignore file
+!*.gitignore
+
+# Allow csv file
+!*.csv
+
+# Allow ini file
+!*.ini
+
+# Allow bat file
+!*.bat
+
+# Allow pdf file
+!*.pdf
+
+# Allow png file
+!*.png
